@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alant\\source\\repos\\SchoolUdemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E54206A-A99E-4601-A950-88741233DA55}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\alant\\source\\repos\\schooludemy\\accesodatos\\operaciones\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E54206A-A99E-4601-A950-88741233DA55}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\operaciones\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC1F301-B51A-43C6-B065-812E20C560AB}|WebApi\\WebApi.csproj|c:\\users\\alant\\source\\repos\\schooludemy\\webapi\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC1F301-B51A-43C6-B065-812E20C560AB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC1F301-B51A-43C6-B065-812E20C560AB}|WebApi\\WebApi.csproj|c:\\users\\alant\\source\\repos\\schooludemy\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC1F301-B51A-43C6-B065-812E20C560AB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\alant\\source\\repos\\SchoolUdemy\\AccesoDatos\\Operaciones\\AlumnoDAO.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Operaciones\\AlumnoDAO.cs",
+              "ToolTip": "C:\\Users\\alant\\source\\repos\\SchoolUdemy\\AccesoDatos\\Operaciones\\AlumnoDAO.cs",
+              "RelativeToolTip": "AccesoDatos\\Operaciones\\AlumnoDAO.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:47:49.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\alant\\source\\repos\\SchoolUdemy\\WebApi\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\alant\\source\\repos\\SchoolUdemy\\WebApi\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AlumnoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:47:39.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alant\\source\\repos\\SchoolUdemy\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\alant\\source\\repos\\SchoolUdemy\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAApwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:53:01.336Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
